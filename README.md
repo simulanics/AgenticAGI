@@ -189,3 +189,8 @@ For any questions, feedback, or business inquiries, contact
 ---
 
 **Unlock the potential of AgenticAGI** – Your evolving, reasoning AI system that adapts to your needs. Start today and experience the future of AI! 🌍🤖
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Simulanics/AgenticAGI&type=Date)](https://star-history.com/#Simulanics/AgenticAGI&Date)
