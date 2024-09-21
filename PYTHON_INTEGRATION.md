@@ -30,6 +30,7 @@ from agenticagi.agi_wrapper import AGIWrapper
 # The AGI system executable location must be specified.
 # Example path to the executable:
 AGIPath = r"C:\Users\mcomb\Desktop\executables\windows\agi.exe"
+# Supported Platforms: Windows, MacOS, Linux - x86 32/64 bit and ARM 32/64 bit - including Raspberry Pi
 
 # Define your callback functions to process the AGI's outputs.
 def thought_callback(data):
