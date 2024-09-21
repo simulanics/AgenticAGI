@@ -6,6 +6,11 @@ AgenticAGI is Strawberry Logic for ALL LLMs - The AGI system allows all LLMs to 
 
 AgenticAGI is a cutting-edge AI system that turns any large language model (LLM) into a powerful, self-correcting, deeply reasoning agent. By implementing a transparent and iterative thought process, AgenticAGI delivers more accurate, flexible, and efficient interactions, providing continuous improvement with every task. Whether you're solving complex problems, running code, or generating data visualizations, AgenticAGI is your comprehensive problem-solving partner.
 
+
+For Developers: [See Python Integration](PYTHON_INTEGRATION.md) - Make sure to download the latest release of AgenticAGI for your platform from the `Releases` page. You'll need to specify its location when using Python.
+
+
+
 ![alt text](https://www.simulanics.com/wp-content/uploads/2024/09/Screenshot-2024-09-15-164938.png)
 
 ## Features
