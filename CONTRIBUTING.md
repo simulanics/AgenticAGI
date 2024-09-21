@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **AgenticAGI**! We welcome contri
 
 ### 1. Fork the Repository
 
-To start contributing, first [fork the repository](https://github.com/simulanics/agentic-agi/fork) to your own GitHub account. This will allow you to freely make changes to the codebase without affecting the main project.
+To start contributing, first [fork the repository](https://github.com/simulanics/AgenticAGI/fork) to your own GitHub account. This will allow you to freely make changes to the codebase without affecting the main project.
 
 ### 2. Clone the Repository
 
