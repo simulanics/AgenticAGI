@@ -165,7 +165,7 @@ The `AGIWrapper` provides a flexible interface to configure and execute AGI task
 - **`contextlimit`**: The maximum number of memories used to make decisions (default is `50`).
 - **`cooldown`**: Duration in seconds between LLM requests (default is `10`).
 - **`fao`**: Enable Final-Answer-Only mode (default is `False`).
-- **`hitm`**: Enable Human-In-The-Middle mode, which allows AGI to ask the user for information during task completion (default is `True`).
+- **`hitm`**: Enable Human-In-The-Middle mode, which allows AGI to ask the user for information during task completion (default is `False`).
 - **`inputprice`**: Optional price for input tokens per million (for calculating costs).
 - **`interactive`**: **Must be disabled** (set to `False`) for callback functionality to work.
 - **`maxcorrections`**: Maximum number of self-corrections allowed during task execution (default is `3`).
