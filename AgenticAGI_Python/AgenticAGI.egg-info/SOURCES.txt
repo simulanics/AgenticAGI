@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+AgenticAGI.egg-info/PKG-INFO
+AgenticAGI.egg-info/SOURCES.txt
+AgenticAGI.egg-info/dependency_links.txt
+AgenticAGI.egg-info/top_level.txt
+agenticagi/__init__.py
+agenticagi/agi_wrapper.py
