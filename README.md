@@ -149,7 +149,7 @@ AgenticAGI stands out because it doesn’t just provide answers – it **reasons
 
 ### Key Benefits 🔑
 
-- **Increased Accuracy**: By thinking through problems, AgenticAGI reduces errors and provides more reliable outcomes.
+- **Increased Accuracy**: By thinking through problems, AgenticAGI reduces errors and provides more reliable outcomes. The system will also fact check against reputable web sources, or use the web to learn how to a task that has been requested. 
 - **Reduced Token Usage**: Efficiency in solving multi-step problems reduces the number of tokens used, cutting down costs 💰.
 - **Flexible Deployment**: Use AgenticAGI with any LLM provider, whether proprietary or open-source.
 - **Future-Proof**: Decentralized learning ensures that AgenticAGI stays on the cutting edge of AI technology without losing past abilities.
