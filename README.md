@@ -37,6 +37,14 @@ For Developers: [See Python Integration](PYTHON_INTEGRATION.md) - Make sure to d
 
 ![alt text](https://www.simulanics.com/wp-content/uploads/2024/09/wifi-learning.png)
 
+## Colab Cookbooks
+AgenticAGI Command-Line Demo  
+<a target="_blank" href="https://colab.research.google.com/github/simulanics/AgenticAGI/blob/main/AgenticAGI_Command_Line_Cookbook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+More Cookbooks to Come!
+
 ## Installation
 
 ### 1. Download 💾
