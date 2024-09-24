@@ -191,13 +191,11 @@ We welcome contributions! Feel free to submit issues or pull requests as we cont
 
 ## License 📜
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Get in Touch 📬
 
-For any questions, feedback, or business inquiries, contact
-
- us via [Simulanics Technologies](https://www.simulanics.com/contact).
+For any questions, feedback, or business inquiries, contact us via [Simulanics Technologies](https://www.simulanics.com/contact).
 
 ---
 
